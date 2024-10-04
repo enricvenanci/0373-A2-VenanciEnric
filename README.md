@@ -24,7 +24,10 @@ Un lenguaje para modificar páginas web.
 
 5. ¿Qué es CSS?
 
-No.
+No lo sé.
 
 6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.
 
+Sé que que tiene dos partes, la de programación que se le llama backend y la que se ve que es el frontend.
+
+![FotoFuncionamentoWeb](UbicacionDeLaImagen "¿Como funciona una web?")
