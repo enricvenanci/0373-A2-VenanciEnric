@@ -31,4 +31,5 @@ No lo sé.
 Sé que que tiene dos partes, la de programación que se le llama backend y la que se ve que es el frontend.
 
 ![FotoFuncionamentoWeb](https://github.com/enricvenanci/0373-A2-VenanciEnric/blob/main/funcionament_pagines_web.png "¿Como funciona una web?")
+
 *Figura 2: Esquema de peticiones HTML*
